@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDos</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="text_username_validation">Username required!!!</string>
+    <string name="text_password_validation">Password required!!!</string>
+    <string name="text_login_invalid">Username or Password invalid!!!</string>
+    <string name="text_alert">Are you sure?</string>
+    <string name="ok">Ok</string>
+
+    <string name="delete_all">Do you want to delete all Todos?</string>
+    <string name="logout_app">Are you sure you want to logout?</string>
+    <string name="btn_logout">Logout</string>
+
+</resources>
